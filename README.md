@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mamula-logo-512.png" alt="MAMULA Logo" width="140" />
+  <img src="./mamula-logo-512%20(1).png" alt="MAMULA Logo" width="140" />
 </p>
 
 <h1 align="center">MAMULA Humanoid Robotics</h1>
